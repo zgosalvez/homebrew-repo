@@ -5,7 +5,7 @@ cask "zgosalvez-hot" do
   url "https://github.com/macmade/Hot/releases/download/#{version}/Hot.app.zip"
   appcast "https://github.com/macmade/Hot/releases.atom"
   name "Hot"
-  desc "A menu bar application that displays the CPU speed limit due to thermal issues"
+  desc "Menu bar application that displays the CPU speed limit due to thermal issues"
   homepage "https://github.com/macmade/Hot"
 
   auto_updates true
