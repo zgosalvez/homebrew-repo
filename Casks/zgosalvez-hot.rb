@@ -1,6 +1,6 @@
 cask "zgosalvez-hot" do
-  version "1.2.2"
-  sha256 "aad042633a54b3f8c10d44b67db71d5674316ac12c530e2031e67d4779500502"
+  version "1.2.3"
+  sha256 "88d2344df7de593e35cf488ef8524756d68fb316632c676127745bb13daa8ad7"
 
   url "https://github.com/macmade/Hot/releases/download/#{version}/Hot.app.zip"
   appcast "https://github.com/macmade/Hot/releases.atom"
