@@ -1,6 +1,6 @@
 cask "zgosalvez-silicon" do
-  version "1.0.2"
-  sha256 "4d710aa7b35a8da9bcc71434d53d5931ce5da523bd9e78e54579a1c4c45736a6"
+  version "1.0.3"
+  sha256 "4f6cf3f6b6cf0b8f067995a292538f122278226fa067427bf184b179076cbf79"
 
   url "https://github.com/DigiDNA/Silicon/releases/download/#{version}/Silicon.app.zip"
   appcast "https://github.com/DigiDNA/Silicon/releases.atom"
@@ -9,7 +9,7 @@ cask "zgosalvez-silicon" do
   homepage "https://github.com/DigiDNA/Silicon"
 
   auto_updates true
-  depends_on macos: ">= :mojave"
+  depends_on macos: ">= :high_sierra"
 
   app "Silicon.app"
 
