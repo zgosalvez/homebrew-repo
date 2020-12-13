@@ -1,6 +1,6 @@
 cask "zgosalvez-jpg-to-heif-converter" do
-  version "1.05"
-  sha256 "b4881177735ce95fd9e20667888916acc98a8fca4dbfbbbb9e959264c5f45619"
+  version "1.07"
+  sha256 "0f4f0f5effefe33ab7553a3f18c86b38ada7cb475d5bbce269801dd5465ec878"
 
   url "https://github.com/makoni/jpg-to-heif-converter/releases/download/#{version}/JPG.to.HEIF.Converter.#{version}.dmg"
   appcast "https://github.com/makoni/jpg-to-heif-converter/releases.atom"
