@@ -13,7 +13,7 @@ Or `brew tap zgosalvez/repo` and then `brew install <formula>`.
 
 ## Casks
 
-* [jpg-to-heif-converter](https://github.com/makoni/jpg-to-heif-converter/issues/12). GitHub repository not notable enough (<30 forks, <30 watchers and <75 stars)
+* [`jpg-to-heif-converter`](https://github.com/makoni/jpg-to-heif-converter/issues/12), GitHub repository not notable enough (<30 forks, <30 watchers and <75 stars)
 
 ### How do I install these Casks?
 `brew cask install zgosalvez/repo/<Cask>`
