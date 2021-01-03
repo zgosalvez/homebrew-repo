@@ -1,6 +1,6 @@
 # Homebrew Repo
 
-These are collections of software packages that do not pass Homebrew's requirements.
+A collection of software packages that do not pass Homebrew's requirements.
 
 ## Formulae
 
